@@ -78,3 +78,106 @@ Next we will configure teams. Select “Agents” -> “Teams” and click “Ad
 <p>
 <img src="https://i.imgur.com/AVwcQs6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+<p>
+Ticket Permissions
+Next we will allow ticket permissions for everyone. Go to “Settings” -> “Users” and make sure the check box within “Registration required” is unchecked. Then click “Save Changes”.
+</p>
+<p>
+<img src="https://i.imgur.com/coMMIpq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Next we will add agents. Go back to your Admin Panel then click “Agents” -> “Add New Agent”.
+</p>
+<p>
+<img src="https://i.imgur.com/sy3p2qg.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create the agent.
+</p>
+<p>
+<img src="https://i.imgur.com/0zV5LTO.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then assign “Access”, “Permissions”, and “Teams” to the agent whatever you deem necessary. Once that's done, click "Create".
+</p>
+<p>
+<img src="https://i.imgur.com/ymaXtHz.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/cpSrqjw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/ljESbLF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Next we will add users. Go to your Agent Panel at the top right of the page. Then click “User” -> “Add User”. Then enter the user’s email and name.
+</p>
+<p>
+<img src="https://i.imgur.com/omMG7sE.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/LOjJxFC.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/ZLl7Zy8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Next we will configure SLA. Go back to your Admin Panel. Then click “Manage” -> “SLA” -> “Add a New SLA Plan”.
+</p>
+<p>
+For this tutorial we will create three SLA plans:
+</p>
+<p>
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+</p>
+<p>
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+</p>
+<p>
+Sev-C (Grace Period: 8 hours, Business Hours)
+</p>
+<p>
+<img src="https://i.imgur.com/0E1Qlvb.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/8ij75n6.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Lastly, we will configure help topics. Go back to your Admin Panel, then click “Manage” -> “Help Topics”. For this tutorial, we will create these help topics:
+</p>
+<p>
+Business Critical Outage
+</p>
+<p>
+Personal Computer Issues
+</p>
+<p>
+Equipment Request
+</p>
+<p>
+Password Reset
+</p>
+<p>
+Other
+</p>
+<p>
+<img src="https://i.imgur.com/5OJd8rO.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/TCPQ2gZ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+That concludes this tutorial, congratulations!
+</p>
