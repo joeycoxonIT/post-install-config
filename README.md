@@ -39,7 +39,7 @@ First, we will configure roles. Go to this link: "http://localhost/osTicket/scp/
 <br />
 
 <p>
-Once that’s done, we will now create a role for someone with full access, for this tutorial, we will name it “Supreme Admin”. Then select “Permissions” and make sure all permissions are checked.
+Once that’s done, we will now create a role for someone with full access, for this tutorial, we will name it “Supreme Admin”. Then select “Permissions” and make sure all permissions are checked. Then click "Add Role".
 </p>
 <p>
 <img src="https://i.imgur.com/UAkhEh9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -56,9 +56,25 @@ Once that’s done, we will now create a role for someone with full access, for 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next we will configure departments. Go back to your Admin Panel, then click “Agents” -> “Departments”. Then select “Add New Department”.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/Zev2asQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For “Parent”, click on the drop-down list that reads “--Top Level Department–” and select “Support”. Then name the department “SysAdmins”. Then scroll to the bottom and click “Create Dept”.
+</p>
+<p>
+<img src="https://i.imgur.com/01AKRc4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<p>
+Next we will configure teams. Select “Agents” -> “Teams” and click “Add New Team”. Then give the team a name. For this tutorial, we will name it “Online Banking” Then click “Create Team”.
+</p>
+<p>
+<img src="https://i.imgur.com/CPMCiGg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/AVwcQs6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
