@@ -51,7 +51,7 @@ Once that’s done, we will now create a role for someone with full access, for 
 <img src="https://i.imgur.com/AkXf5Ye.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/xMj4hp2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vM5H8Gd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
