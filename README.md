@@ -207,6 +207,4 @@ Other
 </p>
 <br />
 
-<p>
-Congratulations! You are now ready to explore osTicket.
-</p>
+<h3>Congratulations! You are now ready to explore osTicket.</h3>
